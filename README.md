@@ -1,2 +1,2 @@
 # validador-gtfs-api
-API validar GTFS via request
+API para validar GTFS via request
