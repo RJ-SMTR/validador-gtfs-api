@@ -31,7 +31,7 @@ pip install -r app/requirements.txt
 
 No seu ambiente virtual, execute o código em sua máquina:
 ```bash
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 ```
 
 Você deverá ver uma saída como essa:
